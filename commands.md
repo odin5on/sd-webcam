@@ -8,3 +8,4 @@ uname -a
 sudo modprobe v4l2loopback devices=1  
 htop  
 dmesg  
+getconf LONG_BIT   
