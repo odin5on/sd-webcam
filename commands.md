@@ -8,4 +8,14 @@ uname -a
 sudo modprobe v4l2loopback devices=1  
 htop  
 dmesg  
-getconf LONG_BIT   
+getconf LONG_BIT  
+
+debugging:  
+tree
+lsusb
+dmseg
+htop  
+systemctl  
+lsmod 
+mount  
+  
