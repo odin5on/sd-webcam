@@ -13,9 +13,9 @@ getconf LONG_BIT
 debugging:  
 tree
 lsusb
-dmseg
+dmesg
 htop  
 systemctl  
 lsmod 
 mount  
-  
+ 
